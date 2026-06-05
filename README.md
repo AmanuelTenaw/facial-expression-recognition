@@ -47,6 +47,12 @@ Dataset Characteristics:
 Dataset Source:
 https://www.kaggle.com/datasets/msambare/fer2013
 
+After downloading, place the dataset in:
+
+archive/
+├── train/
+└── test/
+
 ---
 
 ## Technologies Used
